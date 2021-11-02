@@ -72,3 +72,8 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Plugins/AdvancedSessions/AdvancedSessions/Intermediate/
+Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/
+Plugins/AdvancedSessions/AdvancedSteamSessions/Binaries/Win64/UE4Editor-AdvancedSteamSessions.pdb
+Plugins/AdvancedSessions/AdvancedSteamSessions/Binaries/
+Plugins/AdvancedSessions/AdvancedSessions/Binaries/
